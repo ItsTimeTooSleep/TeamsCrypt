@@ -35,12 +35,12 @@
 ## ✨ 核心特性
 
 ### 🔐 端到端加密
-- **AES-256-GCM** 加密算法  
+- **AES-256-GCM** 军用级加密算法  
 - 加密密钥仅保存在你的设备中  
 - 零知识架构，开发者无法访问内容  
 
 ### ⚡ 使用体验
-- 5 分钟完成安装  
+- 3 分钟完成安装  
 - 不改变 Teams 原生界面  
 - 加密 / 解密全自动完成  
 
@@ -158,6 +158,3 @@ https://github.com/ItsTimeTooSleep/TeamsCrypt
 
 *Last update: Jan 2026 · v1.0*
 *For every important study conversation, add a lock.*
-
-```
-```
