@@ -47,7 +47,17 @@
 ### 👥 学生协作友好
 - 学习小组共享密码  
 - 不同课程 / 项目使用不同密钥  
-- 加密消息可长期解密查看  
+- 加密消息可长期解密查看
+
+### 📁 文件加密解密
+- 支持任意文件类型加密传输  
+- 文件内容完全加密保护  
+- 接收方自动解密接收文件
+
+### ⏰ 限制访问时间
+- 可设置消息的有效期限  
+- 过期后消息自动失效  
+- 灵活控制对话时效性  
 
 ---
 
@@ -68,6 +78,8 @@
 • 本地密钥存储（零知识）
 • 自动解密历史消息
 • Chrome / Edge 浏览器支持
+• 文件加密传输
+• 消息访问时间限制
 ````
 
 ---
@@ -109,7 +121,7 @@ https://github.com/ItsTimeTooSleep/TeamsCrypt/releases/latest
 
 ```text
 赞助入口：
-http://afdian.com/a/itstimetoosleep
+https://afdian.com/a/itstimetoosleep
 ```
 
 ---
@@ -125,11 +137,10 @@ A：不会。所有加密与解密均在本地完成。
 **Q：所有人都必须安装吗？**
 A：
 
-* 发送方加密：只需自己安装
-* 接收方解密：需安装扩展或输入密码
+* 为了确保您的信息安全，您的所有信息将需要端到端加密。所以，发送方和接收方都需要安装扩展。
 
 **Q：支持手机 / 平板吗？**
-A：目前支持 Teams 网页版（电脑浏览器）。
+A：目前仅支持 Teams 网页版（电脑浏览器）。
 
 ---
 
@@ -156,5 +167,5 @@ A：目前支持 Teams 网页版（电脑浏览器）。
 https://github.com/ItsTimeTooSleep/TeamsCrypt
 ```
 
-*Last update: Jan 2026 · v1.0*
-*For every important study conversation, add a lock.*
+*Last update: Jun 2026 · v1.4*
+*Your Words, Your Control.*
